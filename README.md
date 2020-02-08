@@ -1,2 +1,2 @@
 # vanilla-settings
-HTML/SCSS with Javascript
+Basic HTML/CSS/Javascript setup to practice webpack configurations. 
